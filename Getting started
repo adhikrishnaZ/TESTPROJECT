@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Bio Page</title>
+</head>
+<body>
+    <h1>Hi, I'm Adhi👋</h1>
+    <p>I am learning how to use GitHub to build my professional presence.</p>
+    
+    <h3>My Goals:</h3>
+    <ul>
+        <li>Is to build a website 🌐</li>
+        <li>Learn version control with GitHub 🐙</li>
+        <li>Improve my resume 📄</li>
+    </ul>
+</body>
+</html>
